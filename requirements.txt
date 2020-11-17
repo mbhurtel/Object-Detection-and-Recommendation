@@ -1,0 +1,7 @@
+tensorflow==1.15
+keras==2.1.5
+pillow
+opencv-python
+matplotlib
+pandas
+scikit-learn
